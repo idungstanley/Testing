@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing functions",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idungstanley/Testing.git"
+  },
+  "author": "stanley_idung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idungstanley/Testing/issues"
+  },
+  "homepage": "https://github.com/idungstanley/Testing#readme"
+}
